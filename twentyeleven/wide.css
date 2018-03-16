@@ -1,0 +1,93 @@
+
+body {
+
+padding: 0; 
+/*   text-align: center;*/ 
+}
+
+#page {
+
+/*margin: 0 auto; 
+width: 1000px;*/
+
+width: 100%;
+margin: 0px 0px 0 -2px;  /* fix to prevent horz scroll*/
+background: #ffffff url(/wp-content/themes/twentyeleven/images/back-page.png) 0 0 repeat-x !important;
+
+}
+
+#access{
+margin: 0 auto !important; 
+width: 1024px !important;   
+background: #ffffff !important;
+}
+
+#branding{
+margin: 0 auto !important; 
+width: 1024px !important; 
+}
+ 
+#companies-chooser  {  
+width: 100%;
+text-align: center !important;
+background: #ffffff url(/wp-content/themes/twentyeleven/images/back-green-bar.png) 0 0 repeat-x;
+
+}
+
+.white-bar {
+width: 1024px;
+margin: 0 auto	
+}
+.white-bar DIV:first-child {
+margin-left: 250px;  /* sets the left pad in for the home page tabs*/
+}
+
+ 
+#main-chooser-content {
+
+width: 1024px !important;  
+margin: 0 auto !important; 
+text-align: center !important;
+}
+
+.homeLower{
+	width: 1024px !important;
+	margin: 0 auto; 
+ }
+ 
+ 
+
+#black-footer-bar { 
+max-width: 100%;
+text-align: center;
+}
+
+#black-footer-bar DIV{ 
+margin: 0 auto; 
+width: 1024px;
+}
+
+#copyright-notice{ 
+padding-left: 0px;
+}
+#design-credit{ 
+padding-right: 0px;
+}
+
+
+
+#supplementary {
+
+border-top: 1px solid #ddd;
+
+
+/*margin: 10px 20px !important;*/
+
+overflow: hidden;
+
+padding: 1.625em 0; 
+
+	width: 1024px !important;
+	margin: 0 auto !important;
+
+}

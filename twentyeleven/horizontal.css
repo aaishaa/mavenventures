@@ -1,0 +1,173 @@
+/* horizontal ##############################*/
+.horizontal {
+	/* original background: #1a1a1a; */
+	/* background: #ffffff;  added by nsj */
+	width: 100%;
+	margin: 0 auto 0 -60px;
+	height: 190px;
+	}
+	
+.horizontal .carousel {
+	width: 1120px;
+	height: 190px;
+	margin: 0 auto;
+	position: relative;
+	}
+	
+.horizontal .carousel-2 {
+	width: 1120px;
+	height: 190px;
+	margin: 0 auto;
+	position: relative;
+	}	
+	
+.horizontal .carousel_container {
+	/* width: 663px; */ /* 3x220 + 3x1px margin */
+	width: 960px; /* added by nsj */
+	height: 190px;
+	margin: 0 auto;
+	overflow: hidden;
+	/* original padding: 0 50px; */
+	position: relative;
+	}
+	
+.horizontal ul  { 
+	height: 190px;
+	width: 1980px; /* will be overwritten by javascript*/
+}
+	
+.horizontal ul li {
+	width: 155px;
+	height: 190px;
+	display: block;
+	float: left;
+	font-size: 12px !important;
+	line-height: 14px !important;
+	margin-right: 10px;
+	margin-bottom: 1px;
+	position: relative
+	}
+	
+.horizontal ul li p { /* nsj added */
+	margin-top: 4px !important;
+	text-align: left !important;
+	}	
+	
+.horizontal ul li a {
+	width: 153px;
+	height: 153px;
+	background: #fff;
+	display: block;
+	color: #fff;
+	}
+	
+.horizontal ul li .caption {
+	/* original position: absolute;
+	top: 0;
+	left: 0;
+	display: none; */	
+	}
+	
+/* ****************************************************************************************************************** */	
+	
+.horizontal2 {
+	/* original background: #1a1a1a; */
+	background: #ffffff; /* added by nsj */
+	width: 100%;
+	margin: 0 auto 0 -60px;
+	height: 190px;
+	}
+	
+.horizontal2 .carousel {
+	width: 1120px;
+	height: 190px;
+	margin: 0 auto;
+	position: relative;
+	}
+	
+.horizontal2 .carousel-2 {
+	width: 1120px;
+	height: 190px;
+	margin: 0 auto;
+	position: relative;
+	}	
+	
+.horizontal2 .carousel_container {
+	/* width: 663px; */ /* 3x220 + 3x1px margin */
+	width: 960px; /* added by nsj */
+	height: 190px;
+	margin: 0 auto;
+	overflow: hidden;
+	/* original padding: 0 50px; */
+	position: relative;
+	}
+	
+.horizontal2 ul  { 
+	height: 190px;
+	width: 1980px; /* will be overwritten by javascript*/
+}
+	
+.horizontal2 ul li {
+	width: 155px;
+	height: 190px;
+	display: block;
+	float: left;
+	font-size: 12px !important;
+	line-height: 14px !important;
+	margin-right: 10px;
+	margin-bottom: 1px;
+	position: relative
+	}
+	
+.horizontal2 ul li p { /* nsj added */
+	margin-top: 4px !important;
+	text-align: left !important;
+	}	
+	
+.horizontal2 ul li a {
+	width: 153px;
+	height: 153px;
+	background: #fff;
+	display: block;
+	color: #fff;
+	}
+	
+.horizontal2 ul li .caption {
+	/* original position: absolute;
+	top: 0;
+	left: 0;
+	display: none; */	
+	}	
+
+/* ****************************************************************************************************************** */
+
+.carousel_right, .carousel_left {
+	position: absolute;
+	width: 54px;
+	height: 56px;
+	display: block;
+	text-indent: -9999px;
+	}
+	
+.carousel_left { 
+	top: 45px; left:0px;
+	background: url(../images/prevon.png) top left;
+	}
+.carousel_right { 
+	top: 45px; right:0px;
+	background: url(../images/nexton.png) top left;
+	}
+	
+.carousel_right:hover {
+	background: url(../images/nextoff.png) top left;
+	}
+.carousel_left:hover {
+	background: url(../images/prevoff.png) top left;
+	}
+	
+	
+.carousel_right:hover, .carousel_left:hover {
+	/* background-position: bottom left; */
+	}
+	
+.disable { display: none; }
