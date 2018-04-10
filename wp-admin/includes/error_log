@@ -1,0 +1,4 @@
+[01-Mar-2016 02:25:33 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/ben/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[22-Aug-2016 10:59:24 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/ben/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[31-Dec-2016 17:01:41 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/ben/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[12-Jan-2017 16:05:42 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/ben/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17

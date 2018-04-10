@@ -1,0 +1,4 @@
+[10-Feb-2018 09:51:18 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/ben/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[10-Feb-2018 09:51:37 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/ben/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[10-Feb-2018 09:51:47 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/ben/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[10-Feb-2018 10:12:23 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/ben/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17

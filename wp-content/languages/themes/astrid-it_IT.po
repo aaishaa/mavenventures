@@ -1,0 +1,900 @@
+# Translation of Themes - Astrid in Italian
+# This file is distributed under the same license as the Themes - Astrid package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-06 13:32:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Themes - Astrid\n"
+
+#. Description of the plugin/theme
+msgid "Astrid can help you to quickly create an awesome business website. All the features you need are waiting for you in this business theme: color options, fonts, full width header image, custom widgets, blog options and many other interesting and useful options."
+msgstr "Astrid ti aiuta a creare un magnifico sito business. Tutte le caratteristiche di cui hai bisogno ti aspettano in questo tema business: opzioni colore, font, immagine dell'header a larghezza piena, widget personalizzati, opzioni del blog e molte altre opzioni interessanti e utili."
+
+#. Theme Name of the plugin/theme
+msgid "Astrid"
+msgstr "Astrid"
+
+#: inc/demo-content/setup.php:57
+msgid "Explore"
+msgstr "Esplora"
+
+#: inc/demo-content/setup.php:56
+msgid "Welcome to Astrid"
+msgstr "Benvenuto in Astrid"
+
+#: inc/demo-content/setup.php:55
+msgid "5 minute setup"
+msgstr "Installazione in 5 minuti"
+
+#: inc/demo-content/setup.php:15
+msgid "Demo content"
+msgstr "Contenuto demo"
+
+#: inc/customizer.php:61 inc/customizer.php:83
+msgid "Video"
+msgstr "Video"
+
+#. Template Name of the plugin/theme
+msgid "Single Pricing Table"
+msgstr "Tabella dei prezzi singola"
+
+#. Template Name of the plugin/theme
+msgid "Single Timeline Event"
+msgstr "Timeline dell'evento singola"
+
+#. Template Name of the plugin/theme
+msgid "Single Testimonial"
+msgstr "Testimonial singolo"
+
+#. Template Name of the plugin/theme
+msgid "Single Service"
+msgstr "Servizio singolo"
+
+#. Template Name of the plugin/theme
+msgid "Single Project"
+msgstr "Progetto singolo"
+
+#. Template Name of the plugin/theme
+msgid "Single Employee"
+msgstr "Collaboratore singolo"
+
+#. Template Name of the plugin/theme
+msgid "Single Client"
+msgstr "Cliente singolo"
+
+#. Template Name of the plugin/theme
+msgid "Widgetized"
+msgstr "Widgetized"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "Piena ampiezza"
+
+#: template-parts/content.php:52
+msgid "Read more"
+msgstr "Leggi di più"
+
+#: template-parts/content-page.php:28 template-parts/content.php:58
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sembra che non si riesca a trovare ciò che hai chiesto. Forse una ricerca può aiutarti."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Non è stato trovato nulla che corrisponda ai tuoi termini di ricerca. Prova ancora con parole chiave diverse."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto a pubblicare il tuo primo articolo? <a href=\"%1$s\">Inizia da qui</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Non abbiamo trovato nulla"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:62 template-parts/content-page.php:39
+msgid "Edit %s"
+msgstr "Modifica %s"
+
+#: inc/template-tags.php:36
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/framework/widgets/video-widget.php:21
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Incolla l'URL del video (solo da un network che supporti oEmbed, come Youtube, Vimeo etc.):"
+
+#: inc/framework/widgets/video-widget.php:7
+msgid "Astrid: Video"
+msgstr "Astrid: video"
+
+#: inc/framework/widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr "Mostra un video da Youtube, Vimeo etc."
+
+#: inc/framework/widgets/social-widget.php:64
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seleziona &mdash;"
+
+#: inc/framework/widgets/social-widget.php:62
+msgid "Select your social menu:"
+msgstr "Seleziona il tuo menu per i social network:"
+
+#: inc/framework/widgets/social-widget.php:60
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance etc."
+msgstr "Per mostrare le tue icone per i social network in un widget basta andare a <strong>Aspetto > Menu</strong> e creare un menu che contenga i link ai tuoi profili sui social network, e quindi indicare qui quel menu. Network supportati: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance etc."
+
+#: inc/framework/widgets/social-widget.php:52
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Nessun menu è stato ancora creato. <a href=\"%s\">Creane uno</a>."
+
+#: inc/framework/widgets/social-widget.php:6
+msgid "Astrid: Social Profile"
+msgstr "Astrid: profilo per i social network"
+
+#: inc/framework/widgets/social-widget.php:5
+msgid "Display your social profile"
+msgstr "Mostra il tuo profilo per i social network"
+
+#: inc/framework/widgets/posts-widget.php:123
+msgid "Display post date?"
+msgstr "Mostrare la data dell'articolo?"
+
+#: inc/framework/widgets/posts-widget.php:119
+msgid "Number of posts to show:"
+msgstr "Numero di articoli da mostrare:"
+
+#: inc/framework/widgets/posts-widget.php:116
+#: inc/framework/widgets/social-widget.php:57
+msgid "Title:"
+msgstr "Titolo:"
+
+#: inc/framework/widgets/posts-widget.php:12
+msgid "Astrid: Recent Posts"
+msgstr "Astrid: post recenti"
+
+#: inc/framework/widgets/posts-widget.php:11
+msgid "Recent posts with thumbnails"
+msgstr "Articoli recenti con miniature"
+
+#: inc/framework/widgets/front-testimonials.php:148
+msgid "See all our testimonials"
+msgstr "Vedi tutti i nostri testimonial"
+
+#: inc/framework/widgets/front-testimonials.php:41
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "Testo per il pulsante [se lasciato vuoto mostrerà <em>Vedi tutti i nostri testimonial</em>]\t"
+
+#: inc/framework/widgets/front-testimonials.php:39
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr "URL del pulsante [nel caso tu voglia un pulsante sotto il tuo blocco dei testimonial]"
+
+#: inc/framework/widgets/front-testimonials.php:35
+msgid "Offset (number of testimonials needs to be different than -1 for this option to work):"
+msgstr "Offset (perché quest'opzione funzioni il numero dei testimonial dev'essere diverso da -1)"
+
+#: inc/framework/widgets/front-testimonials.php:33
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "Numero dei testimonial da mostrare (-1 per mostrarli tutti):"
+
+#: inc/framework/widgets/front-testimonials.php:28
+msgid "Tip: to rearrange the testimonials order, edit each testimonial page and add a value in Page Attributes > Order"
+msgstr "Suggerimento: per risistemare l'ordine dei testimonial, modifica la pagina di ciascun testimonial e inserisci un valore in Attributi di Pagina > Ordine"
+
+#: inc/framework/widgets/front-testimonials.php:27
+msgid "This widget displays all pages that have the Single Testimonial page template assigned to them."
+msgstr "Questo widget mostra tutte le pagine realizzate col template di pagina Testimonial Singolo."
+
+#: inc/framework/widgets/front-testimonials.php:12
+msgid "Astrid FP: Testimonials"
+msgstr "Astrid FP: testimonial"
+
+#: inc/framework/widgets/front-testimonials.php:11
+msgid "Display your testimonials."
+msgstr "Mostra i tuoi testimonial."
+
+#: inc/framework/widgets/front-skills.php:82
+msgid "Fifth skill value"
+msgstr "Valore della quinta competenza"
+
+#: inc/framework/widgets/front-skills.php:77
+msgid "Fifth skill name"
+msgstr "Nome della quinta competenza"
+
+#: inc/framework/widgets/front-skills.php:71
+msgid "Fourth skill value"
+msgstr "Valore della quarta competenza"
+
+#: inc/framework/widgets/front-skills.php:66
+msgid "Fourth skill name"
+msgstr "Nome della quarta competenza"
+
+#: inc/framework/widgets/front-skills.php:60
+msgid "Third skill value"
+msgstr "Valore della terza competenza"
+
+#: inc/framework/widgets/front-skills.php:55
+msgid "Third skill name"
+msgstr "Nome della terza competenza"
+
+#: inc/framework/widgets/front-skills.php:49
+msgid "Second skill value"
+msgstr "Valore della seconda competenza"
+
+#: inc/framework/widgets/front-skills.php:44
+msgid "Second skill name"
+msgstr "Nome della seconda competenza"
+
+#: inc/framework/widgets/front-skills.php:38
+msgid "First skill value"
+msgstr "Valore della prima competenza"
+
+#: inc/framework/widgets/front-skills.php:33
+msgid "First skill name"
+msgstr "Nome della prima competenza"
+
+#: inc/framework/widgets/front-skills.php:8
+msgid "Astrid FP: Skills"
+msgstr "Astrid FP: competenze"
+
+#: inc/framework/widgets/front-skills.php:7
+msgid "Show your visitors some of your skills."
+msgstr "Mostra ai tuoi visitatori alcune delle tue competenze."
+
+#: inc/framework/widgets/front-services.php:143
+msgid "See all our services"
+msgstr "Vedi tutti i nostri servizi"
+
+#: inc/framework/widgets/front-services.php:40
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "Testo per il pulsante [se lasciato vuoto mostrerà <em>Vedi tutti i nostri servizi</em>]"
+
+#: inc/framework/widgets/front-services.php:38
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr "URL del pulsante [nel caso tu voglia un pulsante sotto il tuo blocco dei servizi]"
+
+#: inc/framework/widgets/front-services.php:34
+msgid "Offset (number of services needs to be different than -1 for this option to work):"
+msgstr "Offset (perché quest'opzione funzioni il numero dei servizi dev'essere diverso da -1):"
+
+#: inc/framework/widgets/front-services.php:32
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "Numero dei servizi da mostrare (-1 per mostrarli tutti):"
+
+#: inc/framework/widgets/front-services.php:27
+msgid "Tip: to rearrange the services order, edit each service page and add a value in Page Attributes > Order"
+msgstr "Suggerimento: per risistemare l'ordine dei servizi, modifica la pagina di ciascun servizio e inserisci un valore in Attributi di Pagina > Ordine"
+
+#: inc/framework/widgets/front-services.php:26
+msgid "This widget displays all pages that have the Single Service page template assigned to them."
+msgstr "Questo widget mostra tutte le pagine realizzate col template di pagina Servizio Singolo."
+
+#: inc/framework/widgets/front-services.php:12
+msgid "Astrid FP: Services"
+msgstr "Astrid FP: servizi"
+
+#: inc/framework/widgets/front-services.php:11
+msgid "Show what services you are able to provide."
+msgstr "Mostra quali servizi sei in grado di offrire."
+
+#: inc/framework/widgets/front-projects.php:142
+msgid "See all our projects"
+msgstr "Vedi tutti i nostri progetti"
+
+#: inc/framework/widgets/front-projects.php:41
+msgid "The text for the button [Defaults to <em>See all our projects</em> if left empty]"
+msgstr "Testo per il pulsante [se lasciato vuoto mostrerà <em>Vedi tutti i nostri progetti</em>]\t"
+
+#: inc/framework/widgets/front-projects.php:39
+msgid "The URL for your button [In case you want a button below your projects block]"
+msgstr "URL del pulsante [nel caso tu voglia un pulsante sotto il tuo blocco dei progetti]"
+
+#: inc/framework/widgets/front-projects.php:35
+msgid "Offset (number of projects needs to be different than -1 for this option to work):"
+msgstr "Offset (perché quest'opzione funzioni il numero dei progetti dev'essere diverso da -1):"
+
+#: inc/framework/widgets/front-projects.php:33
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "Numero dei progetti da mostrare (-1 per mostrarli tutti):"
+
+#: inc/framework/widgets/front-projects.php:28
+msgid "Tip: to rearrange the projects order, edit each project page and add a value in Page Attributes > Order"
+msgstr "Suggerimento: per risistemare l'ordine dei progetti, modifica la pagina di ciascun progetto e inserisci un valore in Attributi di Pagina > Ordine\t"
+
+#: inc/framework/widgets/front-projects.php:27
+msgid "This widget displays all pages that have the Single Project page template assigned to them."
+msgstr "Questo widget mostra tutte le pagine realizzate col template di pagina Progetto Singolo."
+
+#: inc/framework/widgets/front-projects.php:12
+msgid "Astrid FP: Projects"
+msgstr "Astrid FP: progetti"
+
+#: inc/framework/widgets/front-projects.php:11
+msgid "Show off your latest projects."
+msgstr "Mostra i tuoi progetti più recenti."
+
+#: inc/framework/widgets/front-posts.php:75
+#: inc/framework/widgets/front-posts.php:77
+msgid "See all our news"
+msgstr "Vedi tutte le nostre notizie"
+
+#: inc/framework/widgets/front-posts.php:31
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "Inserisci il testo per il pulsante qui se vuoi modificare quello predefinito <em>Vedi tutte le nostre notizie</em>"
+
+#: inc/framework/widgets/front-posts.php:28
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Inserisci lo slug della tua categoria oppure lascia vuoto per mostrare gli articoli di tutte le categorie."
+
+#: inc/framework/widgets/front-posts.php:12
+msgid "Astrid FP: Latest News"
+msgstr "Astrid FP: ultime notizie"
+
+#: inc/framework/widgets/front-posts.php:11
+msgid "Show the latest news from your blog."
+msgstr "Mostra le news più recenti del tuo blog."
+
+#: inc/framework/widgets/front-facts.php:94
+msgid "Fourth fact icon"
+msgstr "Icona del quarto dato"
+
+#: inc/framework/widgets/front-facts.php:89
+msgid "Fourth fact value"
+msgstr "Valore del quarto dato"
+
+#: inc/framework/widgets/front-facts.php:84
+msgid "Fourth fact name"
+msgstr "Nome del quarto dato"
+
+#: inc/framework/widgets/front-facts.php:78
+msgid "Third fact icon"
+msgstr "Icona del terzo dato"
+
+#: inc/framework/widgets/front-facts.php:73
+msgid "Third fact value"
+msgstr "Valore del terzo dato"
+
+#: inc/framework/widgets/front-facts.php:68
+msgid "Third fact name"
+msgstr "Nome del terzo dato"
+
+#: inc/framework/widgets/front-facts.php:62
+msgid "Second fact icon"
+msgstr "Icona del secondo dato"
+
+#: inc/framework/widgets/front-facts.php:57
+msgid "Second fact value"
+msgstr "Valore del secondo dato"
+
+#: inc/framework/widgets/front-facts.php:52
+msgid "Second fact name"
+msgstr "Nome del secondo dato"
+
+#: inc/framework/widgets/front-facts.php:46
+msgid "First fact icon"
+msgstr "Icona del primo dato"
+
+#: inc/framework/widgets/front-facts.php:41
+msgid "First fact value"
+msgstr "Valore del primo dato"
+
+#: inc/framework/widgets/front-facts.php:36
+msgid "First fact name"
+msgstr "Nome del primo dato"
+
+#: inc/framework/widgets/front-facts.php:28
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr "Esempio d'uso: <strong>fa-android</strong>"
+
+#: inc/framework/widgets/front-facts.php:28
+msgid "here."
+msgstr "qui."
+
+#: inc/framework/widgets/front-facts.php:28
+msgid "You can find a list of the available icons "
+msgstr "Puoi trovare un elenco delle icone disponibili"
+
+#: inc/framework/widgets/front-facts.php:8
+msgid "Astrid FP: Facts"
+msgstr "Astrid FP: dati"
+
+#: inc/framework/widgets/front-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "Mostra ai tuoi visitatori alcuni dati riguardanti la tua azienda."
+
+#: inc/framework/widgets/front-employees.php:142
+msgid "See all our employees"
+msgstr "Vedi tutti i nostri collaboratori"
+
+#: inc/framework/widgets/front-employees.php:40
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "Testo per il pulsante [se lasciato vuoto mostrerà <em>Vedi tutti i nostri collaboratori</em>]"
+
+#: inc/framework/widgets/front-employees.php:38
+msgid "The URL for your button [In case you want a button below your employees block]"
+msgstr "URL del pulsante [nel caso tu voglia un pulsante sotto il tuo blocco dei collaboratori]"
+
+#: inc/framework/widgets/front-employees.php:34
+msgid "Offset (number of employees needs to be different than -1 for this option to work):"
+msgstr "Offset (perché quest'opzione funzioni il numero dei collaboratori dev'essere diverso da -1):"
+
+#: inc/framework/widgets/front-employees.php:32
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "Numero dei collaboratori da mostrare (-1 per mostrarli tutti):"
+
+#: inc/framework/widgets/front-employees.php:27
+msgid "Tip: to rearrange the employees order, edit each employee page and add a value in Page Attributes > Order"
+msgstr "Suggerimento: per risistemare l'ordine dei collaboratori, modifica la pagina di ciascun collaboratore e inserisci un valore in Attributi di Pagina > Ordine"
+
+#: inc/framework/widgets/front-employees.php:26
+msgid "This widget displays all pages that have the Single Employee page template assigned to them."
+msgstr "Questo widget mostra tutte le pagine realizzate col template di pagina Collaboratore Singolo."
+
+#: inc/framework/widgets/front-employees.php:12
+msgid "Astrid FP: Employees"
+msgstr "Astrid FP: collaboratori"
+
+#: inc/framework/widgets/front-employees.php:11
+msgid "Show your employees"
+msgstr "Mostra i tuoi collaboratori"
+
+#: inc/framework/widgets/front-clients.php:139
+msgid "See all our clients"
+msgstr "Vedi tutti i nostri clienti"
+
+#: inc/framework/widgets/front-clients.php:41
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr "Testo per il pulsante [se lasciato vuoto mostrerà <em>Vedi tutti i nostri clienti</em>]\t"
+
+#: inc/framework/widgets/front-clients.php:39
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr "URL del pulsante [nel caso tu voglia un pulsante sotto il tuo blocco dei clienti]"
+
+#: inc/framework/widgets/front-clients.php:37
+#: inc/framework/widgets/front-employees.php:36
+#: inc/framework/widgets/front-projects.php:37
+#: inc/framework/widgets/front-services.php:36
+#: inc/framework/widgets/front-testimonials.php:37
+msgid "Page IDs to display in this widget (separated by commas, example: 14,810,220). Note: you can find the page ID in the URL bar while editing your page."
+msgstr "ID delle pagine da mostrare in questo widget (separati da virgole, ad esempio: 14,810,220). Nota: puoi trovare l'ID della pagina nella barra dell'URL mentre modifichi la pagina."
+
+#: inc/framework/widgets/front-clients.php:35
+msgid "Offset (number of clients needs to be different than -1 for this option to work):"
+msgstr "Offset (perché quest'opzione funzioni il numero dei clienti dev'essere diverso da -1):"
+
+#: inc/framework/widgets/front-clients.php:33
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr "Numero dei clienti da mostrare (-1 per mostrarli tutti):"
+
+#: inc/framework/widgets/front-clients.php:30
+#: inc/framework/widgets/front-employees.php:29
+#: inc/framework/widgets/front-facts.php:30
+#: inc/framework/widgets/front-posts.php:24
+#: inc/framework/widgets/front-projects.php:30
+#: inc/framework/widgets/front-services.php:29
+#: inc/framework/widgets/front-skills.php:27
+#: inc/framework/widgets/front-testimonials.php:30
+#: inc/framework/widgets/video-widget.php:17
+msgid "Title"
+msgstr "Titolo"
+
+#: inc/framework/widgets/front-clients.php:28
+msgid "Tip: to rearrange the clients order, edit each client page and add a value in Page Attributes > Order"
+msgstr "Suggerimento: per risistemare l'ordine dei clienti, modifica la pagina di ciascun cliente e inserisci un valore in Attributi di Pagina > Ordine"
+
+#: inc/framework/widgets/front-clients.php:27
+msgid "This widget displays all pages that have the Client Service page template assigned to them."
+msgstr "Questo widget mostra tutte le pagine realizzate col template di pagina Cliente Singolo."
+
+#: inc/framework/widgets/front-clients.php:12
+msgid "Astrid FP: Clients"
+msgstr "Astrid FP: clienti"
+
+#: inc/framework/widgets/front-clients.php:11
+msgid "Show a list of your clients."
+msgstr "Mostra un elenco dei tuoi clienti."
+
+#: inc/framework/widget-options.php:67
+msgid "Remove container?"
+msgstr "Vuoi rimuovere il contenitore?"
+
+#: inc/framework/widget-options.php:64
+msgid "Top/bottom padding [px]"
+msgstr "Padding superiore/inferiore [px]"
+
+#: inc/framework/widget-options.php:56
+msgid "1/3 Width"
+msgstr "Larghezza 1/3"
+
+#: inc/framework/widget-options.php:55
+msgid "1/2 Width"
+msgstr "Larghezza 1/2"
+
+#: inc/framework/widget-options.php:54 inc/framework/widget-options.php:116
+msgid "Full Width"
+msgstr "Piena larghezza"
+
+#: inc/framework/widget-options.php:50
+msgid "Widget width:"
+msgstr "Larghezza del widget"
+
+#: inc/framework/widget-options.php:47
+msgid "Background image URL"
+msgstr "URL dell'immagine di sfondo"
+
+#: inc/framework/widget-options.php:45
+msgid "Widget title color"
+msgstr "Colore del titolo del widget"
+
+#: inc/framework/widget-options.php:43
+msgid "Text color"
+msgstr "Colore del testo"
+
+#: inc/framework/widget-options.php:41
+msgid "Background color"
+msgstr "Colore di sfondo"
+
+#: inc/framework/widget-options.php:39
+msgid "Section ID"
+msgstr "ID della sezione"
+
+#: inc/framework/widget-options.php:38
+msgid "Options found in this panel apply only to this widget."
+msgstr "Le opzioni di questo pannello si applicano solo a questo widget."
+
+#: inc/framework/widget-options.php:36
+msgid "Click to expand"
+msgstr "Fai clic per espandere"
+
+#: inc/framework/widget-options.php:36
+msgid "Styling"
+msgstr "Stile"
+
+#: inc/customizer.php:848
+msgid "Footer background"
+msgstr "Sfondo del footer"
+
+#: inc/customizer.php:827
+msgid "Body text"
+msgstr "Corpo del testo"
+
+#: inc/customizer.php:807
+msgid "Menu background"
+msgstr "Sfondo del menu"
+
+#: inc/customizer.php:748
+msgid "Primary color"
+msgstr "Colore principale"
+
+#: inc/customizer.php:727
+msgid "Phone number"
+msgstr "Numero di telefono"
+
+#: inc/customizer.php:710
+msgid "Email address"
+msgstr "Indirizzo email"
+
+#: inc/customizer.php:693
+msgid "Address"
+msgstr "Indirizzo"
+
+#: inc/customizer.php:677
+msgid "Activate the footer contact and logo area?"
+msgstr "Vuoi attivare l'area contatti e logo del footer?"
+
+#: inc/customizer.php:659
+msgid "Contact"
+msgstr "Contatti"
+
+#: inc/customizer.php:645
+msgid "Upload your footer logo"
+msgstr "Carica il tuo logo del footer"
+
+#: inc/customizer.php:628
+msgid "Three"
+msgstr "Tre"
+
+#: inc/customizer.php:627
+msgid "Two"
+msgstr "Due"
+
+#: inc/customizer.php:626
+msgid "One"
+msgstr "Una"
+
+#: inc/customizer.php:624
+msgid "Choose the number of widget areas in the footer, then go to Appearance > Widgets and add your widgets."
+msgstr "Scegli il numero di aree widget nel footer, quindi vai in Aspetto > Widget e inserisci i tuoi widget."
+
+#: inc/customizer.php:622
+msgid "Footer widget area"
+msgstr "Area dei widget nel footer"
+
+#: inc/customizer.php:597
+msgid "Hide featured images?"
+msgstr "Nascondere le immagini in evidenza?"
+
+#: inc/customizer.php:581
+msgid "Hide post meta?"
+msgstr "Nascondere i meta dell'articolo?"
+
+#: inc/customizer.php:562
+msgid "Excerpt length"
+msgstr "Lunghezza del riassunto"
+
+#: inc/customizer.php:545
+msgid "Full width single posts?"
+msgstr "Articoli singoli a piena larghezza?"
+
+#: inc/customizer.php:530
+msgid "Masonry (grid style)"
+msgstr "Masonry (stile a griglia)"
+
+#: inc/customizer.php:529
+msgid "Full width (no sidebar)"
+msgstr "Piena larghezza (senza barre laterali)"
+
+#: inc/customizer.php:528
+msgid "List"
+msgstr "Elenco"
+
+#: inc/customizer.php:524
+msgid "Blog layout"
+msgstr "Layout del blog"
+
+#: inc/customizer.php:508
+msgid "Blog options"
+msgstr "Opzioni del blog"
+
+#: inc/customizer.php:495
+msgid "Body font size"
+msgstr "Dimensione del corpo del testo"
+
+#: inc/customizer.php:475
+msgid "H6 font size"
+msgstr "Dimensione del font dell'intestazione H6"
+
+#: inc/customizer.php:455
+msgid "H5 font size"
+msgstr "Dimensione del font dell'intestazione H5"
+
+#: inc/customizer.php:435
+msgid "H4 font size"
+msgstr "Dimensione del font dell'intestazione H4"
+
+#: inc/customizer.php:415
+msgid "H3 font size"
+msgstr "Dimensione del font dell'intestazione H3"
+
+#: inc/customizer.php:394
+msgid "H2 font size"
+msgstr "Dimensione del font dell'intestazione H2"
+
+#: inc/customizer.php:374
+msgid "H1 font size"
+msgstr "Dimensione del font dell'intestazione H1"
+
+#: inc/customizer.php:354 inc/customizer.php:788
+msgid "Site description"
+msgstr "Descrizione del sito"
+
+#: inc/customizer.php:334 inc/customizer.php:768
+msgid "Site title"
+msgstr "Titolo del sito"
+
+#: inc/customizer.php:314
+msgid "Headings font family"
+msgstr "Famiglia di font delle intestazioni"
+
+#: inc/customizer.php:297
+msgid "Headings font name/style/sets"
+msgstr "Nome font/stile/impostazioni delle intestazioni"
+
+#: inc/customizer.php:280
+msgid "Body font family"
+msgstr "Famiglia di font del contenuto"
+
+#: inc/customizer.php:262
+msgid "Body font name/style/sets"
+msgstr "Nome font/stile/impostazioni del contenuto"
+
+#: inc/customizer.php:247
+msgid "You can use any Google Fonts you want for the heading and/or body. See the fonts here: google.com/fonts. See the documentation if you need help with this: athemes.com/documentation/astrid"
+msgstr "Puoi usare qualsiasi Google Font tu desideri per l'intestazione e/o il contenuto. Vedi i font qui: google.com/fonts. Se hai bisogno d'aiuto consulta la documentazione qui: athemes.com/documentation/astrid"
+
+#: inc/customizer.php:245
+msgid "Fonts"
+msgstr "Font"
+
+#: inc/customizer.php:236
+msgid "Centered"
+msgstr "Centrato"
+
+#: inc/customizer.php:235
+msgid "Inline"
+msgstr "Giustificato"
+
+#: inc/customizer.php:214
+msgid "Static"
+msgstr "Statico"
+
+#: inc/customizer.php:213
+msgid "Sticky"
+msgstr "In evidenza"
+
+#: inc/customizer.php:210
+msgid "Sticky menu"
+msgstr "Menu in evidenza"
+
+#: inc/customizer.php:192 inc/customizer.php:232
+msgid "Menu style"
+msgstr "Stile di menu"
+
+#: inc/customizer.php:182
+msgid "Add a header image for screen widths smaller than 1024px"
+msgstr "Aggiungi un'immagine dell'header per gli schermi di ampiezza inferiore a 1024px"
+
+#: inc/customizer.php:178
+msgid "Small screens header image"
+msgstr "Immagine dell'header per schermi piccoli"
+
+#: inc/customizer.php:158
+msgid "Button URL"
+msgstr "URL del pulsante"
+
+#: inc/customizer.php:142
+msgid "Button text"
+msgstr "Testo del pulsante"
+
+#: inc/customizer.php:126
+msgid "Header small text"
+msgstr "Sottotitolo dell'header"
+
+#: inc/customizer.php:93 inc/customizer.php:109
+msgid "Header text"
+msgstr "Testo dell'header"
+
+#: inc/customizer.php:80
+msgid "Select the header type for all pages except the front page"
+msgstr "Seleziona il tipo di header per tutte le pagine eccetto quella iniziale."
+
+#: inc/customizer.php:78
+msgid "Site header type"
+msgstr "Tipo di header del sito"
+
+#: inc/customizer.php:62 inc/customizer.php:84
+msgid "Only menu"
+msgstr "Solo menu"
+
+#: inc/customizer.php:60 inc/customizer.php:82
+msgid "Image"
+msgstr "Immagine"
+
+#: inc/customizer.php:58
+msgid "Select the header type for your front page"
+msgstr "Seleziona il tipo di header per la tua pagina iniziale."
+
+#: inc/customizer.php:56
+msgid "Front page header type"
+msgstr "Tipo di header della pagina iniziale"
+
+#: inc/customizer.php:41
+msgid "Select your header type"
+msgstr "Seleziona il tipo di header"
+
+#: inc/customizer.php:38
+msgid "Header type"
+msgstr "Tipo di header"
+
+#: inc/customizer.php:32
+msgid "Header area"
+msgstr "Area dell'header"
+
+#: inc/customizer.php:13
+msgid "Site branding"
+msgstr "Branding del sito"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Salta al contenuto"
+
+#: functions.php:440
+msgid "Theme: %2$s by %1$s."
+msgstr "Tema: %2$s di %1$s."
+
+#: functions.php:437
+msgid "Powered by %s"
+msgstr "Powered by %s"
+
+#: functions.php:436
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:146
+msgid "Footer "
+msgstr "Footer "
+
+#: functions.php:134
+msgid "Use this widget area to build content for the page: "
+msgstr "Usa quest'area del widget per costruire il contenuto della pagina:"
+
+#: functions.php:132
+msgid "Page - "
+msgstr "Pagina - "
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: functions.php:54 inc/customizer.php:607
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Principale"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr "Commenti più recenti"
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr "Commenti meno recenti"
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr "Navigazione dei commenti"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensiero su &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensieri su &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:32
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova a cercare negli archivi mensili. %1$s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sembra che non ci sia nulla in questa posizione. Forse vuoi provare uno dei link qui sotto oppure fare una ricerca?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! La pagina non è stata trovata."
+
+#. Author URI of the plugin/theme
+msgid "http://athemes.com"
+msgstr "http://athemes.com"
+
+#. Author of the plugin/theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the plugin/theme
+msgid "http://athemes.com/theme/astrid"
+msgstr "http://athemes.com/theme/astrid"

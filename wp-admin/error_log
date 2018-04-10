@@ -1,0 +1,67 @@
+[02-Dec-2016 00:40:21 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 72 bytes) in /home/ben/public_html/wp-includes/compat.php on line 121
+[02-Dec-2016 00:40:38 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 72 bytes) in /home/ben/public_html/wp-includes/compat.php on line 121
+[02-Dec-2016 00:42:38 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32 bytes) in /home/ben/public_html/wp-includes/compat.php on line 121
+[02-Dec-2016 00:42:55 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 72 bytes) in /home/ben/public_html/wp-includes/compat.php on line 121
+[07-Jan-2017 02:37:54 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home/ben/public_html/wp-admin/menu.php on line 25
+[30-Jun-2017 19:33:02 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 631523 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[30-Jun-2017 19:56:20 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 641509 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[30-Jun-2017 20:09:04 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 658943 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[30-Jun-2017 20:29:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ben/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 3088
+[30-Jun-2017 20:29:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ben/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 3090
+[30-Jun-2017 21:23:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ben/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 3088
+[30-Jun-2017 21:23:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ben/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 3090
+[01-Jul-2017 20:34:27 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 347510 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 3024
+[01-Jul-2017 20:34:53 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 338538 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 3027
+[01-Jul-2017 20:35:38 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 338538 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 3027
+[01-Jul-2017 20:39:11 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 655405 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[04-Aug-2017 18:20:48 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 574379 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[04-Aug-2017 19:39:38 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 574379 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[04-Aug-2017 21:13:43 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 574379 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[18-Aug-2017 17:47:18 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 357189 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1253
+[18-Aug-2017 21:21:09 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 712929 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[18-Aug-2017 21:35:31 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 262144 bytes) in /home/ben/public_html/wp-includes/cache.php on line 672
+[18-Aug-2017 21:36:12 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 72 bytes) in /home/ben/public_html/wp-includes/class-wp-query.php on line 2863
+[18-Aug-2017 21:38:53 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 712137 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[21-Aug-2017 16:43:16 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 352735 bytes) in /home/ben/public_html/wp-includes/class-requests.php on line 752
+[04-Sep-2017 21:54:59 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 419702 bytes) in /home/ben/public_html/wp-includes/class-requests.php on line 752
+[19-Oct-2017 15:09:55 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 265685 bytes) in /home/ben/public_html/wp-includes/functions.php on line 435
+[20-Nov-2017 19:11:18 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 301684 bytes) in /home/ben/public_html/wp-includes/class-requests.php on line 644
+[20-Nov-2017 19:26:18 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 301683 bytes) in /home/ben/public_html/wp-includes/class-requests.php on line 752
+[20-Nov-2017 19:27:42 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 301683 bytes) in /home/ben/public_html/wp-includes/class-requests.php on line 752
+[12-Dec-2017 18:28:35 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 319007 bytes) in /home/ben/public_html/wp-includes/class-requests.php on line 752
+[12-Dec-2017 20:30:02 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 262174 bytes) in /home/ben/public_html/wp-includes/functions.php on line 435
+[12-Dec-2017 22:03:50 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 319437 bytes) in /home/ben/public_html/wp-includes/class-requests.php on line 752
+[12-Dec-2017 22:04:04 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 264070 bytes) in /home/ben/public_html/wp-includes/functions.php on line 435
+[12-Dec-2017 22:04:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 264070 bytes) in /home/ben/public_html/wp-includes/functions.php on line 435
+[12-Dec-2017 22:06:57 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 327086 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1303
+[14-Dec-2017 20:55:36 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 326082 bytes) in /home/ben/public_html/wp-includes/class-requests.php on line 644
+[16-Mar-2018 21:16:31 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 474087 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[16-Mar-2018 22:08:36 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 474087 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[16-Mar-2018 22:10:29 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 474087 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[16-Mar-2018 22:13:54 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 474087 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1173
+[16-Mar-2018 22:35:21 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 167520 bytes) in /home/ben/public_html/wp-includes/functions.php on line 435
+[16-Mar-2018 22:44:29 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 237044 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1303
+[16-Mar-2018 22:49:28 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 1304696 bytes) in /home/ben/public_html/wp-includes/class-requests.php on line 644
+[16-Mar-2018 22:49:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 1206551 bytes) in /home/ben/public_html/wp-includes/class-requests.php on line 644
+[16-Mar-2018 22:49:37 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 1206551 bytes) in /home/ben/public_html/wp-includes/class-requests.php on line 644
+[17-Mar-2018 02:12:10 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 15862 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:12:25 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 15862 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:12:41 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 15862 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:14:41 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 15862 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:16:43 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:18:44 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:20:43 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:22:44 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:26:41 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 786432 bytes) in /home/ben/public_html/wp-includes/SimplePie/Item.php on line 2736
+[17-Mar-2018 02:27:11 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 786432 bytes) in /home/ben/public_html/wp-includes/SimplePie/Item.php on line 2736
+[17-Mar-2018 02:27:51 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 15862 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:28:06 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:29:21 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 15862 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:29:36 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 15862 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:29:52 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:31:52 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:33:53 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:35:54 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 02:37:54 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 05:06:35 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 15862 bytes) in /home/ben/public_html/wp-includes/wp-db.php on line 1911
+[17-Mar-2018 05:06:49 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 786432 bytes) in /home/ben/public_html/wp-includes/SimplePie/Item.php on line 2736

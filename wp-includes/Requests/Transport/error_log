@@ -1,0 +1,2 @@
+[10-Feb-2018 10:18:51 America/Chicago] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/ben/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15
+[10-Feb-2018 10:19:02 America/Chicago] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/ben/public_html/wp-includes/Requests/Transport/cURL.php on line 15

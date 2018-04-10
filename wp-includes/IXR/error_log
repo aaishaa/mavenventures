@@ -1,0 +1,2 @@
+[10-Feb-2018 09:44:23 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/ben/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[10-Feb-2018 09:44:30 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/ben/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9

@@ -1,0 +1,1 @@
+[10-Feb-2018 09:50:49 America/Chicago] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/ben/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

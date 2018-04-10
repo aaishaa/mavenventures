@@ -1,0 +1,5 @@
+[16-Nov-2017 21:48:46 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/ben/public_html/wp-content/themes/default/404.php on line 7
+[23-Nov-2017 06:40:22 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/ben/public_html/wp-content/themes/default/404.php on line 7
+[07-Dec-2017 23:45:47 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/ben/public_html/wp-content/themes/default/404.php on line 7
+[08-Jan-2018 12:48:58 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/ben/public_html/wp-content/themes/default/404.php on line 7
+[08-Mar-2018 09:39:36 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/ben/public_html/wp-content/themes/default/404.php on line 7

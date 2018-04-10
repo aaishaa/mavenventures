@@ -1,0 +1,2 @@
+[10-Feb-2018 10:16:30 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/ben/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[10-Feb-2018 10:16:42 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/ben/public_html/wp-includes/Requests/Exception/HTTP.php on line 13

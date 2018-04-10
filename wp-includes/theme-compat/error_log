@@ -1,0 +1,12 @@
+[10-Feb-2018 09:19:39 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/ben/public_html/wp-includes/theme-compat/comments.php on line 10
+[10-Feb-2018 09:19:44 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home/ben/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[10-Feb-2018 09:43:17 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home/ben/public_html/wp-includes/theme-compat/embed-404.php on line 14
+[10-Feb-2018 09:43:26 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/ben/public_html/wp-includes/theme-compat/embed.php on line 13
+[10-Feb-2018 09:43:29 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home/ben/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[10-Feb-2018 09:44:14 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home/ben/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[10-Feb-2018 09:50:12 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/ben/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[10-Feb-2018 09:51:55 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/ben/public_html/wp-includes/theme-compat/comments.php on line 10
+[10-Feb-2018 10:04:56 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/ben/public_html/wp-includes/theme-compat/header-embed.php on line 19
+[10-Feb-2018 10:06:40 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/ben/public_html/wp-includes/theme-compat/header.php on line 9
+[10-Feb-2018 10:07:22 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/ben/public_html/wp-includes/theme-compat/footer.php on line 9
+[11-Feb-2018 06:41:37 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home/ben/public_html/wp-includes/theme-compat/embed-content.php on line 13

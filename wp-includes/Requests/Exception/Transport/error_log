@@ -1,0 +1,1 @@
+[10-Feb-2018 10:16:41 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/ben/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3

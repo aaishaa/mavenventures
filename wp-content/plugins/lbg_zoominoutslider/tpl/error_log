@@ -1,0 +1,6 @@
+[03-Oct-2016 08:03:31 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home/ben/public_html/wp-content/plugins/lbg_zoominoutslider/tpl/playlist.php on line 24
+[03-Oct-2016 08:03:32 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home/ben/public_html/wp-content/plugins/lbg_zoominoutslider/tpl/banners.php on line 9
+[03-Feb-2017 20:13:00 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home/ben/public_html/wp-content/plugins/lbg_zoominoutslider/tpl/playlist.php on line 24
+[03-Feb-2017 20:13:01 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home/ben/public_html/wp-content/plugins/lbg_zoominoutslider/tpl/banners.php on line 9
+[18-Apr-2017 00:46:32 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home/ben/public_html/wp-content/plugins/lbg_zoominoutslider/tpl/playlist.php on line 24
+[18-Apr-2017 00:46:34 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home/ben/public_html/wp-content/plugins/lbg_zoominoutslider/tpl/banners.php on line 9

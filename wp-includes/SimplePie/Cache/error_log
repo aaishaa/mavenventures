@@ -1,0 +1,7 @@
+[10-Feb-2018 09:13:15 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/ben/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[10-Feb-2018 09:13:20 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/ben/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[10-Feb-2018 09:14:11 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/ben/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[10-Feb-2018 09:47:27 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/ben/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[10-Feb-2018 09:47:28 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/ben/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[10-Feb-2018 09:48:05 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/ben/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[10-Feb-2018 10:01:56 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/ben/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
