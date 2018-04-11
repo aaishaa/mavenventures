@@ -282,14 +282,7 @@ jQuery(document).ready(function() {
                                                         responsive: []
                                                     };
     //slide specific animations
-    function windowSize(){
-        var ws = jQuery("window").innerWidth();
-        if (ws >= 905){
-            return true;
-        }else{
-            return false;
-        }
-    }
+    var sliderSize = jQuery(".slick-current").innerHeight();
     var     objHomeHeroSliderAnimations    =    {
                                                     slide1  :   {
                                                         fxReset     :   function fxReset() {
@@ -373,8 +366,7 @@ jQuery(document).ready(function() {
                                                                             //     width: "150vw"
                                                                             // });
                                                                             jQuery(".home_hero__slide3__background img").css({
-                                                                                // "width": "150vw"
-                                                                                "height": "100vh"
+                                                                                "width": "150vw"
                                                                             });
                                                                             // jQuery(".home_hero__slide3__A img").css({
                                                                             //     height: "20%"
@@ -387,8 +379,7 @@ jQuery(document).ready(function() {
                                                                             // console.log("animate 3");
                                                                             var pageWidth = jQuery(window).width();
                                                                             jQuery(".home_hero__slide3__background img").animate({
-                                                                                // "width" : pageWidth
-                                                                                "height": "60vh"
+                                                                                "width" : pageWidth
                                                                             }, 3000);
                                                                             // jQuery(".home_hero__slide3__background img").velocity(
                                                                             //     {

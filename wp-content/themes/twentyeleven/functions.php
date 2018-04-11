@@ -701,6 +701,11 @@ function twentyeleven_body_classes( $classes ) {
 }
 add_filter( 'body_class', 'twentyeleven_body_classes' );
 
+function maven_scripts() {
+	wp_enqueue_script( 'maven-main', get_template_directory_uri() . '/js/functions.js', array('jquery'), '', true );
+
+}
+add_action( 'wp_enqueue_scripts', 'maven_scripts' );
 /**
  * Retrieve the IDs for images in a gallery.
  *

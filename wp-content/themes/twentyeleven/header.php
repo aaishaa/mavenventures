@@ -43,7 +43,7 @@
 <!-- /Font Awesome icon and CSS toolkit -->
 
 <!--  Slick -->
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css">
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.8.0/slick.css"/>
 <!--  /Slick -->
 
 <!--  Gridder -->
@@ -55,7 +55,7 @@
 <!-- ********************* TGIT -  JavaScript  ********************* -->
 
 <!--  Slick JS -->
-<script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script>
+<!-- <script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script> -->
 <!--  /Slick JS -->
 
 <!--  Velocity JS -->
