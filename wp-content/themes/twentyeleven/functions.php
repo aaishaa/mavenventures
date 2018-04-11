@@ -548,7 +548,11 @@ function twentyeleven_url_grabber() {
 
 	return esc_url_raw( $matches[1] );
 }
-
+function maven_scripts() {
+	wp_enqueue_script('slick-slider', '//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js', array('jquery'), '1.8.1', true);
+	wp_enqueue_script('custom-slider', get_template_directory_uri() . '/js/functions.js', array('slick-slider','jquery'), '2.0', true);
+}
+add_action( 'wp_enqueue_scripts', 'maven_scripts' );
 /**
  * Count the number of footer sidebars to enable dynamic classes for the footer.
  *

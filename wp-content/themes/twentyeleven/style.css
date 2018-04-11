@@ -1099,7 +1099,7 @@ TGIT-menu__page-links__logo__image--full {
 
 /* home hero slider */
 
-.TGIT-home_hero__slider {
+/*.TGIT-home_hero__slider {
     height:60vh;
     background-color: #000;
 }
@@ -1144,13 +1144,12 @@ TGIT-menu__page-links__logo__image--full {
     opacity: 1;
     color: #fff;
     border-color: #fff;
-}
+}*/
 
-.home_hero__slide1, 
+/*.home_hero__slide1, 
 .home_hero__slide2, 
 .home_hero__slide3 {
   background-color: black;
-  /*border: 1px solid black;*/
   height: 100%;
   display: -webkit-flex;
   display: flex;
@@ -1170,24 +1169,24 @@ TGIT-menu__page-links__logo__image--full {
     top: 0;
     bottom: 0;
     z-index: -2;
-}
+}*/
 .home_hero__slide1__background{
     background: url(/wp-content/uploads/2018/03/Home-slider-3-Team-40opacity-onBlk.png) no-repeat center center fixed;
     background-size: cover;
 }
 
-.home_hero__slide1__background img, 
+/*.home_hero__slide1__background img, 
 .home_hero__slide2__background img,
 .home_hero__slide3__background img{
     max-width: initial;
     width: 150vw;
-}
+}*/
 /*.home_hero__slide3__background img {
     opacity: 0;
 }*/
 
 
-.home_hero__slide1__wrapper1,
+/*.home_hero__slide1__wrapper1,
 .home_hero__slide2__wrapper1,
 .home_hero__slide3__wrapper1 {
     height: 100%;
@@ -1195,7 +1194,6 @@ TGIT-menu__page-links__logo__image--full {
     position: absolute;
     top: 0;
     left: 0;
-    /*border: 15px solid blue;*/
 }
 
 .home_hero__slide1__A,
@@ -1244,7 +1242,7 @@ TGIT-menu__page-links__logo__image--full {
 .home_hero__slide1__B img {
     max-width: 100%;
 }
-
+*/
 .home_hero__slide__text {
     color: #fff;
     /*font-family: Arial;*/
@@ -1279,7 +1277,7 @@ button.home_hero__slide__text__button.TGIT-view_more_button .button-content__tex
 }
 
 
-.home_hero__slide2 {
+/*.home_hero__slide2 {
   background-color: black;
   height: 100%;
   display: -webkit-flex;
@@ -1291,17 +1289,17 @@ button.home_hero__slide__text__button.TGIT-view_more_button .button-content__tex
   position: relative;
   overflow: hidden;
   z-index: -4;
-}
+}*/
 
 .home_hero__slide2__background {
-    display: -webkit-flex;
+    /*display: -webkit-flex;
     display: flex;
     -webkit-justify-content: center;
     justify-content: center;
     -webkit-align-items: center;
     align-items: center;
     z-index: -2;
-    height: 100%;
+    height: 100%;*/
     background: url(/wp-content/uploads/2018/04/2nd-State-Slider-4-4-18-USE.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1336,7 +1334,7 @@ button.home_hero__slide__text__button.TGIT-view_more_button .button-content__tex
     left: 0;
 }*/
 
-.home_hero__slide2__A {
+/*.home_hero__slide2__A {
     z-index: -1;
     height: 100%;
     display: -webkit-flex;
@@ -1393,15 +1391,15 @@ button.home_hero__slide__text__button.TGIT-view_more_button .button-content__tex
   overflow: hidden;
   z-index: -4;
 }
-
+*/
 .home_hero__slide3__background {
-    display: -webkit-flex;
+/*    display: -webkit-flex;
     display: flex;
     -webkit-justify-content: center;
     justify-content: center;
     -webkit-align-items: center;
     align-items: center;
-    z-index: -2;
+    z-index: -2;*/
     height: 100%;
     background: url(/wp-content/uploads/2018/03/TeamPhoto-e1523139098731.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -1433,7 +1431,7 @@ button.home_hero__slide__text__button.TGIT-view_more_button .button-content__tex
     align-items: center;
 }*/
 
-.home_hero__slide3__A img {
+/*.home_hero__slide3__A img {
     max-width: initial;
     height: 20%;
     margin-right: 180px;
@@ -1549,7 +1547,7 @@ button.home_hero__slide__text__button.TGIT-view_more_button .button-content__tex
 .home_hero__slide4__B img {
     max-width: 100%;
 }
-
+*/
 
 
 @media screen

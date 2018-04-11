@@ -25,8 +25,10 @@
 
 
     </footer><!-- #colophon -->
-
+<script src="https://code.jquery.com/jquery-3.0.0.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
     <?php wp_footer(); ?>
+    <!-- <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script> -->
 
 </body>
 

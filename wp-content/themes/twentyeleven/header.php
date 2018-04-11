@@ -43,7 +43,8 @@
 <!-- /Font Awesome icon and CSS toolkit -->
 
 <!--  Slick -->
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css">
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
 <!--  /Slick -->
 
 <!--  Gridder -->
@@ -55,7 +56,7 @@
 <!-- ********************* TGIT -  JavaScript  ********************* -->
 
 <!--  Slick JS -->
-<script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script>
+<!-- <script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script> -->
 <!--  /Slick JS -->
 
 <!--  Velocity JS -->
@@ -83,7 +84,7 @@
 <!-- /js-cookie  -->
 
 <!--  codebase  -->
-<script type="text/javascript" src="<?php echo esc_url( home_url( '/' ) ); ?>wp-content/TGIT/scripts/js/main.js"></script>
+<!-- <script type="text/javascript" src="<?php echo esc_url( home_url( '/' ) ); ?>wp-content/TGIT/scripts/js/main.js"></script> -->
 <!-- /codebase  -->
 
 <!-- ********************* TGIT - /JavaScript  ********************* -->
