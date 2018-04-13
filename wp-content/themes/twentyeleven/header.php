@@ -29,6 +29,10 @@
 <?php wp_head(); ?>
 
 <link rel="profile" href="http://gmpg.org/xfn/11" >
+<!--  Slick -->
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
+<!--  /Slick -->
 <!-- <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" > -->
 <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); echo '?' . filemtime( get_stylesheet_directory() . '/style.css'); ?>" type="text/css" media="screen, projection" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" >
@@ -42,10 +46,7 @@
 <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet" type="text/css">
 <!-- /Font Awesome icon and CSS toolkit -->
 
-<!--  Slick -->
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
-<!--  /Slick -->
+
 
 <!--  Gridder -->
 <link rel="stylesheet" type="text/css" href="<?php echo esc_url( home_url( '/' ) ); ?>wp-content/TGIT/styles/css/vendor/gridder/jquery.gridder.min.css" >

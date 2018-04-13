@@ -19,17 +19,21 @@ get_header(); ?>
                   </div> -->
                   <div class="slick-slider__slides">
                       <div class="">
-                        <div class="home_hero__slide2__background">
+                        <div class="home_hero__slide1__background">
                           <img src="/wp-content/uploads/2018/03/Home-slider-3-Team-40opacity-onBlk.png">
+                          <div class="home_hero__slide__text">
+                            <div class="home_hero__slide__text__title">VISION WORTH FIGHTING FOR</div>
+                            <div class="home_hero__slide__text__details">
+                                <div class="home_hero__slide__text__copy">Backing founders passionate about improving the lives of millions of consumers</div>
+                                <a href="/about">
+                                  <button class="home_hero__slide__text__button TGIT-view_more_button">
+                                      <div class="button-content"><div class="button-content__text">LEARN MORE</div><div class="button-content__icon"><i class="fa fa-caret-right"></i></div></div>
+                                  </button>
+                                </a>
+                            </div>
+                          </div>
                         </div>
-                        <!-- <div class="home_hero__slide__text__title">VISION WORTH FIGHTING FOR</div>
-                        <div class="home_hero__slide__text__details">
-                            <div class="home_hero__slide__text__copy">Backing founders passionate about improving the lives of millions of consumers</div>
-                            <a href="/about">
-                                <button class="home_hero__slide__text__button TGIT-view_more_button">
-                                    <div class="button-content"><div class="button-content__text">LEARN MORE</div><div class="button-content__icon"><i class="fa fa-caret-right"></i></div></div>
-                                </button></a>
-                        </div> -->
+
                       </div>
                       <div class="">
                           <div class="home_hero__slide2__background">

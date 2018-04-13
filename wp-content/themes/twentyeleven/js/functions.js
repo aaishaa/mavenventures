@@ -7,7 +7,9 @@
       autoplaySpeed: 5000,
       speed: 1000,
       fade: true,
-      cssEase: 'linear'
+      cssEase: 'linear',
+      prevArrow: '<div class="slick-slider__arrow slick-slider__arrow--previous"><i class="fa fa-angle-left"></i></div>',
+      nextArrow: '<div class="slick-slider__arrow slick-slider__arrow--next"><i class="fa fa-angle-right"></i></div>'
     });
   });
 })(jQuery);
