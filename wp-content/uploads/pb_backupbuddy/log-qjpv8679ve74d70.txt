@@ -24091,3 +24091,222 @@ Tue, 10 Apr 2018 20:48:13 GMT
     [status] => 403
 )
 `
+[Apr 13, 2018 07:46:07 -7-error] [] Error listing multipart uploads. Details: `CFResponse Object
+(
+    [header] => Array
+        (
+            [x-amz-request-id] => 6810667183EA9274
+            [x-amz-id-2] => sqbP+0UWghU5LcmWwu2WP7MzF8LL2RtRKrpnVczRgfC7Tv4OBODYVzAHTAc0BurrCcx6mxhaHGY=
+            [content-type] => application/xml
+            [transfer-encoding] => chunked
+            [date] => Fri, 13 Apr 2018 14:46:07 GMT
+            [server] => AmazonS3
+            [_info] => Array
+                (
+                    [url] => https://s3.amazonaws.com/wpcurve_backups/?uploads
+                    [content_type] => application/xml
+                    [http_code] => 403
+                    [header_size] => 266
+                    [request_size] => 414
+                    [filetime] => -1
+                    [ssl_verify_result] => 0
+                    [redirect_count] => 0
+                    [total_time] => 0.197046
+                    [namelookup_time] => 2.3E-5
+                    [connect_time] => 0.028942
+                    [pretransfer_time] => 0.172435
+                    [size_upload] => 0
+                    [size_download] => 354
+                    [speed_download] => 1796
+                    [speed_upload] => 0
+                    [download_content_length] => -1
+                    [upload_content_length] => 0
+                    [starttransfer_time] => 0.197038
+                    [redirect_time] => 0
+                    [redirect_url] => 
+                    [primary_ip] => 54.231.50.60
+                    [certinfo] => Array
+                        (
+                        )
+
+                    [primary_port] => 443
+                    [local_ip] => 192.168.0.22
+                    [local_port] => 60197
+                    [method] => GET
+                )
+
+            [x-aws-request-url] => https://s3.amazonaws.com/wpcurve_backups/?uploads
+            [x-aws-redirects] => 0
+            [x-aws-stringtosign] => GET
+
+application/x-www-form-urlencoded
+Fri, 13 Apr 2018 14:46:07 GMT
+/wpcurve_backups/?uploads
+            [x-aws-requestheaders] => Array
+                (
+                    [Content-Type] => application/x-www-form-urlencoded
+                    [Date] => Fri, 13 Apr 2018 14:46:07 GMT
+                    [Authorization] => AWS AKIAJM6IIXJASRT4GASA:Z5uLjHOY9Q8rqnEC09vJJKLo1O8=
+                    [Expect] => 
+                )
+
+        )
+
+    [body] => CFSimpleXML Object
+        (
+            [Code] => InvalidAccessKeyId
+            [Message] => The AWS Access Key Id you provided does not exist in our records.
+            [AWSAccessKeyId] => AKIAJM6IIXJASRT4GASA
+            [RequestId] => 6810667183EA9274
+            [HostId] => sqbP+0UWghU5LcmWwu2WP7MzF8LL2RtRKrpnVczRgfC7Tv4OBODYVzAHTAc0BurrCcx6mxhaHGY=
+        )
+
+    [status] => 403
+)
+`
+[Apr 17, 2018 08:39:23 -7-error] [] Error listing multipart uploads. Details: `CFResponse Object
+(
+    [header] => Array
+        (
+            [x-amz-request-id] => 60CBE63EB8800B96
+            [x-amz-id-2] => Af0yG/iolZXfpM4VqPtOBFMQRYubzwsCxUcpI9ufbljYVmrbLWAqjXD0aTdYNUm3OeuDRCheSQE=
+            [content-type] => application/xml
+            [transfer-encoding] => chunked
+            [date] => Tue, 17 Apr 2018 15:39:22 GMT
+            [server] => AmazonS3
+            [_info] => Array
+                (
+                    [url] => https://s3.amazonaws.com/wpcurve_backups/?uploads
+                    [content_type] => application/xml
+                    [http_code] => 403
+                    [header_size] => 266
+                    [request_size] => 414
+                    [filetime] => -1
+                    [ssl_verify_result] => 0
+                    [redirect_count] => 0
+                    [total_time] => 0.599525
+                    [namelookup_time] => 3.7E-5
+                    [connect_time] => 0.021951
+                    [pretransfer_time] => 0.557552
+                    [size_upload] => 0
+                    [size_download] => 354
+                    [speed_download] => 590
+                    [speed_upload] => 0
+                    [download_content_length] => -1
+                    [upload_content_length] => 0
+                    [starttransfer_time] => 0.599514
+                    [redirect_time] => 0
+                    [redirect_url] => 
+                    [primary_ip] => 52.216.85.69
+                    [certinfo] => Array
+                        (
+                        )
+
+                    [primary_port] => 443
+                    [local_ip] => 192.168.0.22
+                    [local_port] => 56705
+                    [method] => GET
+                )
+
+            [x-aws-request-url] => https://s3.amazonaws.com/wpcurve_backups/?uploads
+            [x-aws-redirects] => 0
+            [x-aws-stringtosign] => GET
+
+application/x-www-form-urlencoded
+Tue, 17 Apr 2018 15:39:22 GMT
+/wpcurve_backups/?uploads
+            [x-aws-requestheaders] => Array
+                (
+                    [Content-Type] => application/x-www-form-urlencoded
+                    [Date] => Tue, 17 Apr 2018 15:39:22 GMT
+                    [Authorization] => AWS AKIAJM6IIXJASRT4GASA:Rp9awAB/qpfkrUtU/odTqlNxI7k=
+                    [Expect] => 
+                )
+
+        )
+
+    [body] => CFSimpleXML Object
+        (
+            [Code] => InvalidAccessKeyId
+            [Message] => The AWS Access Key Id you provided does not exist in our records.
+            [AWSAccessKeyId] => AKIAJM6IIXJASRT4GASA
+            [RequestId] => 60CBE63EB8800B96
+            [HostId] => Af0yG/iolZXfpM4VqPtOBFMQRYubzwsCxUcpI9ufbljYVmrbLWAqjXD0aTdYNUm3OeuDRCheSQE=
+        )
+
+    [status] => 403
+)
+`
+[Apr 20, 2018 11:42:31 -7-error] [] Error listing multipart uploads. Details: `CFResponse Object
+(
+    [header] => Array
+        (
+            [x-amz-request-id] => 62CF6E5AB50355E0
+            [x-amz-id-2] => z2T1or8cB7HW577myvUulJH3mjojOf8EyRHXMu+z3LE0TC/ueFYNmo8DGDj6QjwJ240FnLXl0Ws=
+            [content-type] => application/xml
+            [transfer-encoding] => chunked
+            [date] => Fri, 20 Apr 2018 18:42:31 GMT
+            [server] => AmazonS3
+            [_info] => Array
+                (
+                    [url] => https://s3.amazonaws.com/wpcurve_backups/?uploads
+                    [content_type] => application/xml
+                    [http_code] => 403
+                    [header_size] => 266
+                    [request_size] => 414
+                    [filetime] => -1
+                    [ssl_verify_result] => 0
+                    [redirect_count] => 0
+                    [total_time] => 0.16062
+                    [namelookup_time] => 2.2E-5
+                    [connect_time] => 0.021171
+                    [pretransfer_time] => 0.093983
+                    [size_upload] => 0
+                    [size_download] => 354
+                    [speed_download] => 2203
+                    [speed_upload] => 0
+                    [download_content_length] => -1
+                    [upload_content_length] => 0
+                    [starttransfer_time] => 0.160614
+                    [redirect_time] => 0
+                    [redirect_url] => 
+                    [primary_ip] => 52.216.232.5
+                    [certinfo] => Array
+                        (
+                        )
+
+                    [primary_port] => 443
+                    [local_ip] => 192.168.0.22
+                    [local_port] => 51660
+                    [method] => GET
+                )
+
+            [x-aws-request-url] => https://s3.amazonaws.com/wpcurve_backups/?uploads
+            [x-aws-redirects] => 0
+            [x-aws-stringtosign] => GET
+
+application/x-www-form-urlencoded
+Fri, 20 Apr 2018 18:42:31 GMT
+/wpcurve_backups/?uploads
+            [x-aws-requestheaders] => Array
+                (
+                    [Content-Type] => application/x-www-form-urlencoded
+                    [Date] => Fri, 20 Apr 2018 18:42:31 GMT
+                    [Authorization] => AWS AKIAJM6IIXJASRT4GASA:Z8mATvlYWLClhlWDpgcMWM1dXQU=
+                    [Expect] => 
+                )
+
+        )
+
+    [body] => CFSimpleXML Object
+        (
+            [Code] => InvalidAccessKeyId
+            [Message] => The AWS Access Key Id you provided does not exist in our records.
+            [AWSAccessKeyId] => AKIAJM6IIXJASRT4GASA
+            [RequestId] => 62CF6E5AB50355E0
+            [HostId] => z2T1or8cB7HW577myvUulJH3mjojOf8EyRHXMu+z3LE0TC/ueFYNmo8DGDj6QjwJ240FnLXl0Ws=
+        )
+
+    [status] => 403
+)
+`

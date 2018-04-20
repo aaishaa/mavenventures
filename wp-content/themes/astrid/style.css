@@ -21,7 +21,7 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Muli', sans-serif;
   font-size: 14px;
   color: #656D6D;
   word-wrap: break-word;
@@ -38,7 +38,7 @@ h4,
 h5,
 h6 {
   color: #272727;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Muli', sans-serif;
   font-weight: 300;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -1582,6 +1582,9 @@ body.page-template-page_widgetized {
     margin: 0 1rem;
     float: left;
 }
+.TGIT-menu__page-links__logo a:hover {
+  text-decoration: none;
+}
 
 .TGIT-menu__page-links__logo__image--cropped {
     display: none;
@@ -1596,7 +1599,14 @@ TGIT-menu__page-links__logo__image--full {
     -moz-transition: max-height 0.2s ease;
     -o-transition: max-height 0.2s ease;
     transition: max-height 0.2s ease;
-    max-height: 49px;
+    max-height: 40px;
+    padding-right: 20px;
+    border-right: 1px solid #d6d6d6;
+}
+
+a.blog-link {
+  margin-left: 20px;
+  font-weight: 800;
 }
 
 .entry-summary, li {
@@ -2530,13 +2540,13 @@ header#masthead.site-header {
 .site-footer, .footer-info {
     background-color: #51ad32 !important;
     color: white !important;
-  font-family: 'Raleway' !important;
+  font-family: 'Muli', sans-serif;
 }
 
 .footer-branding > h2 {
     background-color: #51ad32 !important;
     color: red;
-  font-family: 'Raleway' !important;
+  font-family: 'Muli', sans-serif;
 }
 
 .footer-info {

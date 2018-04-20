@@ -16,6 +16,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script type="text/javascript" src="<?php echo esc_url( home_url( '/' ) ); ?>wp-content/TGIT/scripts/js/main.js"></script>
 <?php wp_head(); ?>
@@ -40,11 +41,12 @@
      		</div> 
 			<nav class="dain-nav">
 				<div class="TGIT-menu__page-links__logo">
-            		<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
-                		<img class="TGIT-menu__page-links__logo__image TGIT-menu__page-links__logo__image--cropped" src="/wp-content/uploads/2016/02/Maven-horiz-logo-bug.png">
-                    	<img class="TGIT-menu__page-links__logo__image TGIT-menu__page-links__logo__image--full" src="/wp-content/uploads/2016/02/Maven-horiz-logo.png">
-               	    </a>
-                </div>
+      		<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
+      			<img class="TGIT-menu__page-links__logo__image TGIT-menu__page-links__logo__image--cropped" src="/wp-content/uploads/2016/02/Maven-horiz-logo-bug.png">
+          	<img class="TGIT-menu__page-links__logo__image TGIT-menu__page-links__logo__image--full" src="/wp-content/uploads/2016/02/maven_logo.jpg">
+     	    </a>
+     	    <a href="<?php echo esc_url( home_url( '/blog' ) ); ?>" class="blog-link">BLOG</a>
+        </div>
 			</nav> <!-- #site-navigation -->
 		</div>
 		</div>
